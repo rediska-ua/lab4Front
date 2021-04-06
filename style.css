@@ -1,0 +1,19 @@
+#blue {
+    color: #eee;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    text-align: center;
+    display: flex;
+    cursor: pointer;
+}
+
+#red {
+    color: #eee;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    text-align: center;
+    display: flex;
+    cursor: pointer;
+}
